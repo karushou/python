@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-m = 1
+m = 2
 b = 1
 x = np.linspace(-5,5,100)
 y = m*x+b
